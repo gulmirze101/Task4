@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\bin\Debug\net8.0\Student Management Console Application.exe
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\bin\Debug\net8.0\Student Management Console Application.deps.json
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\bin\Debug\net8.0\Student Management Console Application.runtimeconfig.json
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\bin\Debug\net8.0\Student Management Console Application.dll
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\bin\Debug\net8.0\Student Management Console Application.pdb
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.AssemblyInfo.cs
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.dll
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\refint\Student Management Console Application.dll
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.pdb
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\Student Management Console Application.genruntimeconfig.cache
+C:\Users\student\source\repos\Student Management Console Application\Student Management Console Application\obj\Debug\net8.0\ref\Student Management Console Application.dll
